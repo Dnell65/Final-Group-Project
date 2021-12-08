@@ -46,3 +46,9 @@ form.onsubmit = (e)=>{
     window.location.href = form.getAttribute("action"); 
   }
 }
+// function signupfun(){
+// localStorage.setItem($('.emailjs'),$('.passwordjs'))
+// }
+
+
+// localStorage.getItem($(.emailjs))
